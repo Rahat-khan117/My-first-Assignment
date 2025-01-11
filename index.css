@@ -80,6 +80,57 @@
     background-color: white;
     color: #0A9957;
 }
+.banner_box2 {
+    height: 350px;
+    width: 985px;
+    margin: 30px 0 0 90px;
+}
+.banner_heading{
+    font-size: 31px;
+    font-weight: 700;
+}
+.small_2 {
+    font-size: 14px;
+    color: #0E0E0E;
+    margin-top: 13px;
+}
+.vision_container{
+    width: 985px;
+    height: 246px;
+    margin-top: 19px;
+    display: flex;
+    gap: 40px;
+}
+.box_1 {
+    width: 300px; height: 246px;
+    border-radius: 13px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.light_img{
+   height: 64px; width: 64px;
+   margin: 22px 0 0 22px;
+}
+.top_p{
+    font-size: 18px;
+    font-weight: 700;
+    margin: 5px 0 0 22px;
+}
+.less_top{
+    margin: 2px 0 0 22px;
+}
+.learn_2{
+    height: 30px; width: 90px;
+    margin: 5px 0 0 22px;
+    border: 0;
+    border-radius: 6px;
+    color:white ;
+}
+.learn_2:hover{
+    background-color: red;
+}
+
 
 
 
