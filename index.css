@@ -201,7 +201,7 @@
 .also_small{
     margin-top: 8px;
 }
-.news_btn{
+.news_btn,.donate{
     background-color: #006A50;
     height: 30px; width: 90px;
     margin-top: 10px;
@@ -212,4 +212,62 @@
 .news_btn:hover{
     background-color: rgb(231, 92, 28);
 }
+/* donation box */
+.banner_box4 {
+    height: 320px;
+    width: 985px;
+    margin: 30px 0 0 90px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.donate_box{
+    height: 100px;
+    width: 850px;
+    margin-top: 22px;
+    display: flex;
+    gap: 22px;
+}
+.big_p {
+    font-size: 29px;
+    font-weight: 700;
+}
+.small_4{
+    font-size: 14px;
+    color: #0E0E0E;
+    margin-top: 8px;
+}
+#amount {
+    height: 35px;
+    width: 819px;
+    margin-top: 22px;
+    border: 0;
+    text-align: center;
+}
+.donate{
+    margin-top: 17px;
+}
+.donate:hover{
+    background-color: rgb(231, 92, 28);
+}
+.taka_box {
+    height: 100px; width: 195px;
+    border-radius: 15px;
+    background-color: #FFFFFF;
+    align-content: center;
 
+}
+.taka_box p {
+    text-align: center;
+    font-size: 31px;
+    font-weight: 700;
+    color: #333936;
+}
+.taka_box:hover{
+    background-color: #6BA798;
+}
+/* last part */
+.last_box{
+    height: 240px;
+    width: 985px;
+}
