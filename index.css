@@ -1,0 +1,85 @@
+* {
+    margin: 0; padding: 0;
+}
+
+.fira-sans {
+    font-family: "Fira Sans", serif;
+    font-weight: 200;
+    font-style: normal;
+  }
+.background_color {
+    background-color: #F5F5F5;
+}
+/* Header Part */
+.nav_bar{
+    display: flex;
+    justify-content: space-between;
+}
+#bangladesh{
+    margin:25px 0 0 90px;
+    font-size: 29px;
+    font-weight: 700;
+}
+.sign_in {
+    margin:20px 90px 0 0;
+    font-size: 18px;
+    font-weight: 500;
+    color:#6BA798;
+    border: 2px solid #6BA798;
+    border-radius: 6px;
+    width: 100px;
+    height: 45px;
+}
+.sign_in:hover {
+    background-color: rgb(231, 92, 28);
+    color: white;
+    border: 0;
+}
+.banner_box {
+    background-color: #C6E4D6;
+    height: 350px;
+    width: 985px;
+    margin: 30px 0 0 90px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+.text_box{
+    height: 227px;
+    width: 414px;
+    margin: 62px 0 0 60px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.hero_img{
+    height: 273px;
+    width: 415px;
+    margin: 34px 30px 0 0;
+}
+.small_p {
+    color: #6A7972;
+    font-size: 24px;
+    font-weight: 400;
+}
+.large_p {
+    font-size: 35px;
+    font-weight: 700;
+}
+.learn_btn {
+    width: 190px;
+    height: 45px;
+    background-color:#0A9957;
+    color: white;
+    font-size: 15px;
+    border: 0;
+    border-radius: 6px;
+    margin-top: 10px;
+}
+.learn_btn:hover {
+    background-color: white;
+    color: #0A9957;
+}
+
+
+
