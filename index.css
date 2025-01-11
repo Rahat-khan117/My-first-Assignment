@@ -139,7 +139,7 @@
 
 }
 .say_box2{
-    background-image: url(/assets/quote-bg.png);
+    background-image: url(assets/quote-bg.png);
     background-repeat: no-repeat;
     background-size: 44px 52px;
     height: 120px;
